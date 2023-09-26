@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Main</h1>
-	<%-- <div>message: ${message}</div> --%>
+	<div>message: ${message}</div>
 </body>
 </html>
